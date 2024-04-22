@@ -159,3 +159,4 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 artifacts/*
+pegasus-samsum/runs/Apr21_20-23-36_A-DUSHYANTH/events.out.tfevents.1713711216.A-DUSHYANTH.19672.0
